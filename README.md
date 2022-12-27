@@ -1,6 +1,6 @@
 # License
 
-Copyright (C) 2020 Jianxin Wang(jxwang@mail.csu.edu.cn),Chengqian Lu(chengqlu@csu.edu.cn)
+Copyright (C) 2020 Jianxin Wang(jxwang@mail.csu.edu.cn), Chengqian Lu(chengqlu@xtu.edu.cn)
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -15,7 +15,7 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, see <http://www.gnu.org/licenses/>.
 
-Jianxin Wang(jxwang@mail.csu.edu.cn),Chengqian Lu(chengqlu@csu.edu.cn)
+Jianxin Wang(jxwang@mail.csu.edu.cn),Chengqian Lu(chengqlu@xtu.edu.cn)
 School of Information Science and Engineering
 Central South University
 ChangSha
